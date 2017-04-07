@@ -1,0 +1,19 @@
+{
+  "name": "financial-services",
+  "version": "1.0.0",
+  "description": "Financial Services Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-learo/financial-services.git"
+  },
+  "author": "Michael Learo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael-learo/financial-services/issues"
+  },
+  "homepage": "https://github.com/michael-learo/financial-services#readme"
+}
